@@ -1,4 +1,4 @@
-# SurrealDB on Railway
+# SurrealDB 1.x on Railway
 
 ## Environment Variables
 
