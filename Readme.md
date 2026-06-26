@@ -1,5 +1,7 @@
-# SurrealDB 1.x on Railway (Deprecated)
-- SurrealDB 1.x is now deprecated, please use the [2.x template](https://railway.com/template/RLin57?referralCode=bncQEM)
+# SurrealDB 1.x on Railway
+
+> [!WARNING]
+> **Deprecated.** This template has been replaced by the SurrealDB 3.x template: https://github.com/nxfi777/SurrealDB-Railway-3.x
 
 ## Environment Variables
 
